@@ -1,8 +1,3 @@
-# testRE
-*This text will be italic*
-_This will also be italic_
+# Allegro AP
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+Interfejs programistyczny (API) Allegro pozwala na wymianę informacji między zasobami Allegro a oprogramowaniem zewnętrznym. API umożliwia profesjonalizację biznesu, poprzez tworzenie na jego podstawie rozwiązań ułatwiających codzienną obsługę dużej sprzedaży i automatyzujących powtarzalne procesy.
