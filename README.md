@@ -9,4 +9,5 @@ API to usługa sieciowa, która umożliwia wymianę informacji między zasobami 
 * WebAPI - więcej informacji znajdziesz w dokumentacji WebAPI Allegro
 * Rest API - więcej informacji znajdziesz w dokumentacji REST API Allegro
 
-## Jak zgłaszać problemy i zadawać problemy w GitHubie? 
+## Jak zgłaszać problemy i zadawać pytania w GitHubie? 
+Abśmy mogli Ci pomóc wejdź w zakładkę Issues i załóż nowe zgłoszenie - w miarę możliwości, dokładnie opisz zgłaszany problem lub pytanie.  
