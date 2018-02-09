@@ -1,4 +1,4 @@
-# Allegro API  ![WebAPI Logo](https://static.allegrostatic.pl/site_images/1/0/infopages/logo-webapi.png)
+# Allegro API  ![WebAPI Logo](https://assets.allegrostatic.pl/opbox/allegro.pl/strefamarek/Strefa%20Marek/5dPSMgGkuIZv4Mb8SFUkAB-w44-h43.png)
 
 Założyliśmy profil **Allegro API** na GitHubie po to, abyś mógł łatwiej zgłaszać problemy, zadawać pytania i szukać odpowiedzi w już rozwiązanych wątkach. 
 
